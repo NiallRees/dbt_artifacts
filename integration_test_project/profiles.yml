@@ -60,5 +60,5 @@ dbt_artifacts:
       host: localhost
       database: datalake
       schema: dbt
-      port: 8181
+      port: 8080
       threads: 8
